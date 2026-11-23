@@ -199,10 +199,10 @@ See [config.example.yaml](config.example.yaml) for the full documented configura
 ## Sponsors
 
 <!-- Add a sponsor: append one <tr> with the banner and one <tr> with the description. -->
-<table>
+<table width="100%">
   <tr>
     <td align="center">
-      <a href="https://www.ipwo.net/?ref=githubeasyproxies"><img src="assets/sponsor-ipwo.jpg" width="420" alt="IPWO Residential Proxies"></a>
+      <a href="https://www.ipwo.net/?ref=githubeasyproxies"><img src="assets/sponsor-ipwo.jpg" width="100%" alt="IPWO Residential Proxies"></a>
     </td>
   </tr>
   <tr>

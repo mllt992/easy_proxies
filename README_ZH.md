@@ -123,10 +123,10 @@ nodes_file: nodes.txt
 ## 赞助商
 
 <!-- 新增赞助商：复制一组 <tr>（横幅）+ <tr>（说明）即可，勿改动表格结构。 -->
-<table>
+<table width="100%">
   <tr>
     <td align="center">
-      <a href="https://www.ipwo.net/?ref=githubeasyproxies"><img src="assets/sponsor-ipwo.jpg" width="420" alt="IPWO 住宅代理"></a>
+      <a href="https://www.ipwo.net/?ref=githubeasyproxies"><img src="assets/sponsor-ipwo.jpg" width="100%" alt="IPWO 住宅代理"></a>
     </td>
   </tr>
   <tr>

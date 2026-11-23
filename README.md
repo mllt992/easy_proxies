@@ -4,21 +4,6 @@
 
 > A sing-box based proxy pool manager -- aggregate many upstream proxy nodes into one stable, health-checked, load-balanced local proxy endpoint.
 
-## Sponsor
-
-[![IPWO Residential Proxies](assets/sponsor-ipwo.jpg)](https://www.ipwo.net/?ref=githubeasyproxies)
-
-**[IPWO Residential Proxies](https://www.ipwo.net/?ref=githubeasyproxies)** provides residential proxy resources in **195+ countries and regions**, with **HTTP(S)/SOCKS5** support and flexible session configuration -- a good fit for multi-node proxy access, network scheduling, cross-region connectivity, and data collection.
-
-- **Plan types**: dynamic, static, and unlimited residential proxies
-- **Dynamic IPs**: free trial available
-- **Static IPs**: from **¥9.9 / month / IP**
-- **Promo code**: **`0202`** (10% off)
-
-| Resource | Coverage | Protocols | Plans |
-| --- | --- | --- | --- |
-| IPWO Residential Proxies | 195+ countries / regions | HTTP(S), SOCKS5 | Dynamic / Static / Unlimited |
-
 ## Features
 
 - **Three runtime modes**: `pool` (single-port load balancing), `multi-port` (one port per node), and `hybrid` (both simultaneously)
@@ -210,6 +195,22 @@ See the [session routing guide (Chinese)](docs/session-routing.md) for lifecycle
 ### Full Config Reference
 
 See [config.example.yaml](config.example.yaml) for the full documented configuration with all available options.
+
+## Sponsors
+
+<!-- Add a sponsor: append one <tr> with the banner and one <tr> with the description. -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.ipwo.net/?ref=githubeasyproxies"><img src="assets/sponsor-ipwo.jpg" width="420" alt="IPWO Residential Proxies"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b><a href="https://www.ipwo.net/?ref=githubeasyproxies">IPWO Residential Proxies</a></b> &mdash; 195+ countries and regions, HTTP(S)/SOCKS5, flexible sessions. Dynamic / static / unlimited plans; free trial for dynamic IPs; static IPs from &yen;9.9/month/IP; promo code <code>0202</code> (10% off).
+    </td>
+  </tr>
+</table>
 
 ## GeoIP Region Routing
 

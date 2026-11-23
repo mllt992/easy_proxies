@@ -4,6 +4,21 @@
 
 > A sing-box based proxy pool manager -- aggregate many upstream proxy nodes into one stable, health-checked, load-balanced local proxy endpoint.
 
+## Sponsor
+
+[![IPWO Residential Proxies](assets/sponsor-ipwo.jpg)](https://www.ipwo.net/?ref=githubeasyproxies)
+
+**[IPWO Residential Proxies](https://www.ipwo.net/?ref=githubeasyproxies)** provides residential proxy resources in **195+ countries and regions**, with **HTTP(S)/SOCKS5** support and flexible session configuration -- a good fit for multi-node proxy access, network scheduling, cross-region connectivity, and data collection.
+
+- **Plan types**: dynamic, static, and unlimited residential proxies
+- **Dynamic IPs**: free trial available
+- **Static IPs**: from **¥9.9 / month / IP**
+- **Promo code**: **`0202`** (10% off)
+
+| Resource | Coverage | Protocols | Plans |
+| --- | --- | --- | --- |
+| IPWO Residential Proxies | 195+ countries / regions | HTTP(S), SOCKS5 | Dynamic / Static / Unlimited |
+
 ## Features
 
 - **Three runtime modes**: `pool` (single-port load balancing), `multi-port` (one port per node), and `hybrid` (both simultaneously)

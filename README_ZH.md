@@ -6,6 +6,21 @@ Easy Proxies 是一个基于 sing-box 的代理池管理工具。
 
 目标是把大量上游节点统一成稳定的本地 HTTP/SOCKS5 代理入口，同时支持按节点独立端口访问。
 
+## 赞助商
+
+[![IPWO 住宅代理](assets/sponsor-ipwo.jpg)](https://www.ipwo.net/?ref=githubeasyproxies)
+
+**[IPWO 住宅代理](https://www.ipwo.net/?ref=githubeasyproxies)** 包含 **195+ 国家和地区的住宅代理资源**，支持 **HTTP(S)/SOCKS5** 协议及灵活会话配置，适用于多节点代理接入、网络调度、跨地区连接和数据采集等场景。
+
+- 支持**动态、静态及不限量**住宅代理
+- 动态 IP 支持**免费测试**
+- 静态 IP 低至 **9.9 元/月/条**
+- 折扣码：**`0202`**（90 折）
+
+| 资源 | 覆盖 | 协议 | 套餐 |
+| --- | --- | --- | --- |
+| IPWO 住宅代理 | 195+ 国家和地区 | HTTP(S)、SOCKS5 | 动态 / 静态 / 不限量 |
+
 ## 当前能力
 
 - 运行模式：`pool`、`multi-port`、`hybrid`。
